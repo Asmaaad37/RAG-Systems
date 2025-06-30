@@ -1,2 +1,2 @@
 # RAG-Systems
-RAG System - Extract PDF and provides responses accordingly.
+RAG System - Extracts PDFs and provides responses accordingly.
