@@ -1,2 +1,2 @@
 # RAG-Systems
-Contains applications i built using LLMs and RAG Agents.
+RAG System - Extract PDF and provides responses accordingly.
